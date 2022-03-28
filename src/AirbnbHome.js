@@ -8,13 +8,13 @@ import { getDatabase, ref, set } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDsMsO_16gGKTuBSq--eFgxgZd4CDOInT4",
-  authDomain: "airbnb-clone-e1193.firebaseapp.com",
-  databaseURL: "https://airbnb-clone-e1193-default-rtdb.firebaseio.com",
-  projectId: "airbnb-clone-e1193",
-  storageBucket: "airbnb-clone-e1193.appspot.com",
-  messagingSenderId: "84638269400",
-  appId: "1:84638269400:web:5d7d70501cef697badbcad"
+  apiKey: API_KEY,
+  authDomain: DOMAIN_URL,
+  databaseURL: DATABASE_URL,
+  projectId: ID,
+  storageBucket: BCK,
+  messagingSenderId: MSD,
+  appId: APPID
 };
 
 // Initialize Firebase
