@@ -1,6 +1,6 @@
-# Airbnb Clone
+# Hotel Booking App
 
-In this repo you have found out how I made a clone of the Airbnb app using React
+In this repo you have found out how I made Hotel Booking app using React
 
 <h3>Things to look out for</h3>
 
