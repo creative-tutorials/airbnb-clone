@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState } from 'react';
-import AirbnbHome from './AirbnbHome';
+import AirbnbHome from './components/AirbnbHome';
 import airbnb_logo from './Airbnb logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
